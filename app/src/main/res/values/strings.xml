@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Todo-App</string>
     <string name="welcome_back">Welcome Back</string>
-    <string name="today_s_task">Today\'s Task</string>
+
     <string name="enter_search_title">Enter search title</string>
     <string name="add_task">Add Task</string>
+    <string name="todo">TODO!</string>
+    <string name="taskscomplete">task to complete</string>
+    <string name="save_task">Save Task</string>
 </resources>

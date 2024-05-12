@@ -10,4 +10,24 @@
         android:layout_height="200dp"
         android:src="@drawable/iconapp"
         android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="311dp"
+        android:layout_height="59dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="460dp"
+
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="175dp"
+        android:fontFamily="sans-serif-thin"
+        android:includeFontPadding="false"
+        android:text="@string/todo"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        android:textStyle="bold" />
 </RelativeLayout>

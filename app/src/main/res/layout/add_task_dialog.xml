@@ -87,7 +87,7 @@
                 android:layout_marginTop="4dp"
                 android:backgroundTint="@color/black"
                 style="@style/Widget.App.Button.Fill"
-                android:text="Save Task"
+                android:text="@string/save_task"
                 android:textSize="20sp" />
         </LinearLayout>
     </RelativeLayout>
